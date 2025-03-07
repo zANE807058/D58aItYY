@@ -128,7 +128,6 @@ Although some development teams have experimented with Agile methodologies, GRC 
 **Answer:** Data sovereignty and residency are crucial aspects for GRC, as we operate in multiple countries with varying data protection and privacy regulations. We expect the proposed cloud-based solutions to comply with local data residency requirements by using the cloud provider's regional data centers to store and process data. This will help us ensure that we meet the regulatory requirements of each country we operate in, as well as minimize latency and improve performance for our users.
 
 **Question 18:** Are there any specific cloud services or technologies that GRC prefers to use or avoid for the cloud migration and transformation project?
-
 **Answer:** GRC does not have any strict preferences or restrictions regarding specific cloud services or technologies. We are open to using any cloud services or tools that best address our challenges and meet our goals, as long as they align with our business objectives, budget, and compliance requirements. However, we expect the proposed solutions to prioritize tools and technologies that are compatible with our existing infrastructure.
 
 **Question 19:** What is GRC's plan for monitoring and managing the performance, security, and health of its cloud-based solutions?
