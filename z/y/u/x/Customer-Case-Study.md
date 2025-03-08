@@ -64,7 +64,6 @@ Although some development teams have experimented with Agile methodologies, GRC 
 **Answer:** Our e-commerce platform primarily uses Microsoft technologies, including ASP.NET for web development, and SQL Server for the underlying database. We are also using a mix of JavaScript frameworks for our front-end development.
 
 **Question 2:** How does GRC handle application deployment and hosting in the current infrastructure?
-
 **Answer:** Currently, we host our applications on Windows Server virtual machines running on-premises data centers. For deployment, we are using a combination of manual processes and scripting based on PowerShell.
 
 **Question 3:** Does GRC have experience with any cloud services or platforms?
