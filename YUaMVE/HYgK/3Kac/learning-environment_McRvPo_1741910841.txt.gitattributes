@@ -10,7 +10,6 @@
 *.cxx text
 *.h text
 *.hpp text
-*.hxx text
 *.java text
 *.txt text
 *.md text
