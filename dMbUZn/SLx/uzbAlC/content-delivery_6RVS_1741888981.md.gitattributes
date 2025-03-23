@@ -1,3 +1,0 @@
-# Workaround for github linguist Objective-C misdetection
-# https://github.com/github/linguist/issues/4024
-*.[ch] linguist-language=C
