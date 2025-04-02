@@ -11,7 +11,6 @@ set -o xtrace
 ## http://docs.openstack.org/essex/openstack-compute/starter/content/
 
 ## 1、设置root权限
-## 为了简单，全部都是用root来运行。
 
 ##########################################################################
 ## 2、自行检查下面network/interfaces的两个网卡设置
